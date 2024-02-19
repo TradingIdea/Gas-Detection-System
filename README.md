@@ -1,4 +1,4 @@
-**Gas Detection System using MQ-9 Sensor with ATmega32 Microcontroller**
+# **Gas Detection System using MQ-9 Sensor with ATmega32 Microcontroller**
 
 Gas detection systems are vital in various industries to ensure the safety of personnel and equipment. In this project, we have developed a gas detection system using the MQ-9 sensor and ATmega32 microcontroller. The MQ-9 sensor is known for its sensitivity to a wide range of gases, making it a reliable choice for such applications.
 
