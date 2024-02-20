@@ -13,3 +13,6 @@ By publishing this project on GitHub, we aim to contribute to the open-source co
 In addition to the hardware and software components, the project emphasizes the importance of safety protocols and best practices when working with gas sensors and electrical systems. Proper calibration, maintenance, and testing are essential to ensure the reliability and accuracy of the gas detection system.
 
 Overall, this project serves as a practical example of integrating sensor technology, microcontrollers, and display interfaces to create a functional and efficient gas detection system. We invite feedback, suggestions, and collaboration from the community to further enhance and expand the capabilities of this project.
+
+Video link on YouTube:
+https://youtu.be/mXQFA6aH7xw?feature=shared
